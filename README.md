@@ -67,7 +67,7 @@ I thrive on end-to-end ownership—from architecture and code to deployment and 
 | **Audit Trail System** | Secure Java Spring Boot service for compliance logging; 99.99% uptime. | Java, Spring Boot, PostgreSQL | NA |
 | **Medical Imaging AI** | CNN-based prototype for anomaly detection in X-ray scans (~92% accuracy). | PyTorch, OpenCV, FastAPI | NA |
 
---
+---
 
 
 ## 📫 Get In Touch
