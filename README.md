@@ -3,7 +3,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/M.Tech-AI/ML-blue?logo=academic" alt="M.Tech AI/ML"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/athenahealth-Member%20of%20Technical%20Staff-green?logo=athenahealth" alt="athenahealth"/>
+  <img src="https://img.shields.io/badge/athenaHealth-Member%20of%20Technical%20Staff-green?logo=athenahealth" alt="athenaHealth"/>
 </p>
 
 # Hi there, I’m Akash S 👋
@@ -11,7 +11,7 @@
 **Software Engineer | AI/ML Enthusiast | Cloud & Scalable Systems**
 
 - 🎓 M.Tech in AI & ML, BITS Pilani (2023–2025)  
-- 💼 Member of Technical Staff @ athenahealth  
+- 💼 Member of Technical Staff @ athenaHealth  
 - 🌐 Previously @ Saama (Platform Engineering) & TCS  
 - 🛠️ Building highly scalable microservices & AI prototypes  
 - 📫 Reach me at [akashsrikanth98@gmail.com](mailto:akashsrikanth98@gmail.com)
