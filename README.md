@@ -26,7 +26,7 @@ Java · Python · Node.js · Spring Boot · AWS · Terraform · Docker · Kubern
 
 ## Open Source
 
-- Azure PyRIT: Contributor to AI security and red-teaming tooling
+- microsoft/PyRIT: Contributor to AI security and red-teaming tooling
 - containers/ramalama: Contributor to local LLM developer experience and documentation
 
 ## Links
